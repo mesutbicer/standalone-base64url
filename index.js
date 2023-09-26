@@ -1,3 +1,7 @@
+/**
+ * Asagidaki calisma FE <=> FE iletisim icin de kullanilabilir! (query parammeters uzerinden)
+ */
+
 // run `node index.js` in the terminal
 const base64url = require('base64url');
 
