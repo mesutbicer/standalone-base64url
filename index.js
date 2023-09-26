@@ -1,5 +1,7 @@
 /**
  * Asagidaki calisma FE <=> FE iletisim icin de kullanilabilir! (query parammeters uzerinden)
+ *
+ * Source: https://www.npmjs.com/package/base64url
  */
 
 // run `node index.js` in the terminal
